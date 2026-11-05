@@ -65,6 +65,6 @@ If this policy changes, I will publish the new version at this address and updat
 
 ## Contact
 
-Questions about this policy or your privacy:
+For app help or privacy questions:
 
 Milana Vladimirova, Switzerland <milanaunbound@gmail.com>
